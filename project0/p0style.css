@@ -1,0 +1,43 @@
+#sea {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+#img{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#as{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+#gas
+    {
+        position: absolute;
+        top: 8px;
+        right: 36px;
+        font-size: 18px;
+}
+#gimg{
+  position: absolute;
+  top: 8px;
+  right: 196px;
+  font-size: 18px;
+}
+#back
+{ position: absolute;
+    top: 8px;
+    right: 25px;
+    font-size: 18px;
+}
